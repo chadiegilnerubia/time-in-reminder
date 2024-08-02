@@ -5,8 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node --loader ts-node/esm index.ts"
-  },
+  "start": "node --no-warnings --loader ts-node/esm index.ts"
+},
   "keywords": [],
   "author": "Chadie Gil Augis",
   "license": "ISC",
