@@ -1,3 +1,3 @@
 @echo off
-cd /d "C:\Users\White Hat\Desktop\time-log-monitor"
+cd /d "C:\Users\beluga\Desktop\time-log-monitor"
 npm start
