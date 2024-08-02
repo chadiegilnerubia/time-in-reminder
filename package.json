@@ -1,0 +1,21 @@
+{
+  "name": "time-log-monitor",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --loader ts-node/esm index.ts"
+  },
+  "keywords": [],
+  "author": "Chadie Gil Augis",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
